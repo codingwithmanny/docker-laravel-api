@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    {{ env('APP_ENV') }}
+                    {{ env('APP_NAME') }} {{ env('APP_ENV') }}
                 </div>
             </div>
         </div>
