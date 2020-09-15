@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Docker Laravel API
                 </div>
 
                 <div class="links">
-                    {{ env('APP_ENV') }}
+                    {{ env('APP_NAME') }} {{ env('APP_ENV') }}
                 </div>
             </div>
         </div>
