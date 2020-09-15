@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- PHP 7.3.11+
+- PHP 7.3.11
 
 ## Local Setup
 
