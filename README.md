@@ -3,7 +3,7 @@
 ## Requirements
 
 - PHP 7.3.11+
-- MySQL
+- MySQL 5
 
 ## Local Setup
 
